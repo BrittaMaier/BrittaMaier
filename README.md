@@ -7,6 +7,4 @@ I am a chemist interested in Web Development
 - Trivia Information
 - Chocolate
 - My dog
-- <a href="https://github.com/harish-sethuraman/readme-components">
-<img alt="GitHubIcon" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
-</a>
+- ![GitHubLogo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=github)
