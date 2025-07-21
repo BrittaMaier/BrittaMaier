@@ -8,3 +8,4 @@ I am a chemist interested in Web Development
 - Chocolate
 - My dog
 
+[![GitHub Streak](https://streak-stats.demolab.com/?BrittaMaier=DenverCoder1)](https://git.io/streak-stats)
